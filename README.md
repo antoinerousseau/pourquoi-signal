@@ -1,3 +1,5 @@
+[<img src="logo.png" width="200" alt="" />](https://signal.org/fr/)
+
 # Pourquoi Signal ?
 
 Réponses simples sur les questions courantes que se pose le grand public sur l'application [Signal](https://signal.org/fr/).
@@ -51,3 +53,7 @@ En voici quelques unes :
 - [Why everyone should be using Signal instead of WhatsApp](https://www.wired.co.uk/article/signal-vs-whatsapp)
 - [WhatsApp : Polémique sur l'existence d'une porte dérobée](https://fr.wikipedia.org/wiki/WhatsApp#Pol%C3%A9mique_sur_l'existence_d'une_porte_d%C3%A9rob%C3%A9e)
 - [Wikipedia : Signal (application)](https://fr.wikipedia.org/wiki/Signal_(application))
+
+## J'ai d'autres questions, ou j'ai un souci
+
+[La page support de Signal](https://support.signal.org/hc/fr) est bien faite et contient des articles simples et clairs qui répondront à la plupart de vos questions.
