@@ -6,12 +6,12 @@ Réponses simples sur les questions courantes que se pose le grand public sur l'
 
 ## Pour un meilleur respect de votre vie privée
 
-WhatsApp et Messenger sont la propriété de Facebook qui utilise et revend vos données personnelles, et ce malgré les restrictions imposées en Europe par le RGPD.\
-Signal a été récemment recommandée par des personnes importantes dont Edward Snowden et Elon Musk.
+WhatsApp et Messenger sont la propriété de Facebook qui utilise et revend [vos données personnelles](data.png), et ce malgré les restrictions imposées en Europe par le RGPD.\
+Signal a été récemment recommandée par des personnes importantes dont [Edward Snowden](https://twitter.com/Snowden/status/1347217810368442368) et [Elon Musk](https://twitter.com/elonmusk/status/1347165127036977153).
 
 ## Pour une meilleure transparence
 
-Signal est une application open source (code libre) éditée par une organisation à but non lucratif.\
+Signal est une application open source (code libre) éditée par [une organisation à but non lucratif](https://en.wikipedia.org/wiki/Signal_Foundation).\
 C'est aussi une occasion de s'éloigner du monopole de Facebook.
 
 ## Parce qu'il est habituellement difficile de convaincre son entourage
@@ -26,7 +26,7 @@ En outre, les conversations ne sont pas cryptées par défaut, il faut le faire 
 
 ## Pourquoi pas une application encore plus sécurisée ?
 
-D'autres applications telles que Olvid ou autres sont peut-être encore plus sécurisées, mais au prix d'une plus grand ecomplexité pour pouvoir ajouter des contacts, et d'une interface pas aussi complète.\
+D'autres applications telles que Olvid ou autres sont peut-être encore plus sécurisées, mais au prix d'une plus grande complexité pour pouvoir ajouter des contacts, et d'une interface pas aussi complète.\
 Pour les utilisateurs de WhatsApp, Signal fonctionne pareil : les contacts sont identifiés par leur numéro de téléphone.\
 C'est donc un compromis idéal.
 
