@@ -21,8 +21,8 @@ Le plus compliqué pour une application sociale est l'adoption d'utilisateurs, c
 
 ## Pourquoi pas Telegram ?
 
-Même si le code source de l'application est libre, ce n'est pas le cas des serveurs (russes).\
-En outre, les conversations ne sont pas cryptées par défaut, il faut le faire manuellement.
+Même si le code source de l'application est libre, [ce n'est pas le cas du code serveur et de son système cryptographique](https://fr.wikipedia.org/wiki/Telegram_(application)#Critiques_et_s%C3%A9curit%C3%A9).\
+En outre, les conversations ne sont pas chiffrées par défaut, il faut le faire manuellement.
 
 ## Pourquoi pas une application encore plus sécurisée ?
 
@@ -41,7 +41,7 @@ Il existe [un moyen simple](https://www.numerama.com/tech/680997-comment-migrer-
 ## Bonus ergonomie et fun
 
 - Réactions aux messages sous forme d'emojis, pratique pour ne pas polluer les groupes avec de multiples messages.
-- Stickers avec la possibilité de créer ses propres packs
+- Stickers avec la possibilité de créer [ses propres packs](https://signalstickers.com/).
 
 ## J'aimerais vérifier ces informations, où sont les sources ?
 
