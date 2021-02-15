@@ -2,16 +2,16 @@
 
 # Pourquoi Signal ?
 
-Réponses simples sur les questions courantes que se pose le grand public sur l'application [Signal](https://signal.org/fr/).
+Réponses simples sur les questions courantes que se pose le grand public sur [Signal](https://signal.org/fr/), une application de messagerie instantanée qui ressemble à WhatsApp.
 
 ## Pour un meilleur respect de votre vie privée
 
 WhatsApp et Messenger sont la propriété de Facebook qui utilise et revend [vos données personnelles](data.png), et ce malgré les restrictions imposées en Europe par le RGPD.\
-Signal a été récemment recommandée par des personnes importantes dont [Edward Snowden](https://twitter.com/Snowden/status/1347217810368442368) et [Elon Musk](https://twitter.com/elonmusk/status/1347165127036977153).
+Signal a été récemment recommandée par des personnalités telles qu'[Edward Snowden](https://twitter.com/Snowden/status/1347217810368442368) et [Elon Musk](https://twitter.com/elonmusk/status/1347165127036977153).
 
 ## Pour une meilleure transparence
 
-Signal est une application open source (code libre) éditée par [une organisation à but non lucratif](https://en.wikipedia.org/wiki/Signal_Foundation).\
+Signal est une application open source ([code libre](https://fr.wikipedia.org/wiki/Logiciel_libre)) éditée par [une organisation à but non lucratif](https://en.wikipedia.org/wiki/Signal_Foundation).\
 C'est aussi une occasion de s'éloigner du monopole de Facebook.
 
 ## Parce qu'il est habituellement difficile de convaincre son entourage
@@ -32,8 +32,7 @@ C'est donc un compromis idéal.
 
 ## Bonus Android : les SMS
 
-Signal vous permet (si vous le désirez) de prendre en charge les SMS à la place de votre application habituelle de SMS, et ce de manière transparente : n'utilisez plus que Signal, et le message transitera via Signal si le destinataire a Signal, ou via SMS sinon. Un petit indicateur (cadenas ouvert ou fermé) permet de savoir via quel réseau le message transite.\
-[Plus d'infos](https://support.signal.org/hc/fr/articles/360007321171-Puis-je-envoyer-des-textos-ou-des-messages-multim%C3%A9dias-avec-Signal-)
+Signal [vous permet](https://support.signal.org/hc/fr/articles/360007321171-Puis-je-envoyer-des-textos-ou-des-messages-multim%C3%A9dias-avec-Signal-) (si vous le désirez) de prendre en charge les SMS à la place de votre application habituelle de SMS, et ce de manière transparente : n'utilisez plus que Signal, et le message transitera via Signal si le destinataire a Signal, ou via SMS sinon. Un petit indicateur (cadenas ouvert ou fermé) permet de savoir via quel réseau le message transite.\
 
 ## Et mes groupes ?
 
