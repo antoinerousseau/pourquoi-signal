@@ -33,7 +33,7 @@ C'est donc un compromis idéal.
 
 ## Bonus Android : les SMS
 
-Signal [vous permet](https://support.signal.org/hc/fr/articles/360007321171-Puis-je-envoyer-des-textos-ou-des-messages-multim%C3%A9dias-avec-Signal-) (si vous le désirez) de prendre en charge les SMS à la place de votre application habituelle de SMS, et ce de manière transparente : n'utilisez plus que Signal, et le message transitera via Signal si le destinataire a Signal, ou via SMS sinon. Un petit indicateur (cadenas ouvert ou fermé) permet de savoir via quel réseau le message transite.\
+Signal [vous permet](https://support.signal.org/hc/fr/articles/360007321171-Puis-je-envoyer-des-textos-ou-des-messages-multim%C3%A9dias-avec-Signal-) (si vous le désirez) de prendre en charge les SMS à la place de votre application habituelle de SMS, et ce de manière transparente : n'utilisez plus que Signal, et le message transitera via Signal si le destinataire a Signal, ou via SMS sinon. Un petit indicateur (cadenas ouvert ou fermé) permet de savoir via quel réseau le message transite. Appuyez longtemps dessus pour choisir manuellement.
 
 ## Et mes groupes ?
 
