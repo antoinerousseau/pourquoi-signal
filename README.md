@@ -7,7 +7,7 @@ Réponses simples sur les questions courantes que se pose le grand public sur [S
 ## Pour un meilleur respect de votre vie privée
 
 WhatsApp et Messenger sont la propriété de Facebook qui utilise et revend [vos données personnelles](data.png), et ce malgré les restrictions imposées en Europe par le RGPD.\
-Signal a été récemment recommandée par des personnalités telles qu'[Edward Snowden](https://twitter.com/Snowden/status/1347217810368442368) et [Elon Musk](https://twitter.com/elonmusk/status/1347165127036977153).\
+Signal a été récemment [recommandée](https://fr.wikipedia.org/wiki/Signal_(application)#Recommandations) par des personnalités telles qu'[Edward Snowden](https://twitter.com/Snowden/status/1347217810368442368) et [Elon Musk](https://twitter.com/elonmusk/status/1347165127036977153).\
 Et [ce n'est pas parce que vous n'avez rien à cacher qu'il ne faut pas protéger votre vie privée](https://www.amnesty.org/fr/latest/campaigns/2015/04/7-reasons-why-ive-got-nothing-to-hide-is-the-wrong-response-to-mass-surveillance/).
 
 ## Pour une meilleure transparence
