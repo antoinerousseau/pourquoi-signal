@@ -25,6 +25,8 @@ Le plus compliqué pour une application sociale est l'adoption d'utilisateurs, c
 Même si le code source de l'application est libre, [ce n'est pas le cas du code serveur et de son système cryptographique](https://fr.wikipedia.org/wiki/Telegram_(application)#Critiques_et_s%C3%A9curit%C3%A9).\
 En outre, les conversations ne sont pas chiffrées par défaut, il faut le faire manuellement.
 
+Enfin, Telegram est une initiative russe, avec des serveurs en Russie. Dans le contexte actuel de la guerre en Ukraine, [vos messages sont probablement lus par le gouvernement russe](https://www.fastcompany.com/90725423/signals-founder-warns-ukrainians-about-using-telegram-heres-why).
+
 ## Pourquoi pas une application encore plus sécurisée ?
 
 D'autres applications telles que Olvid ou autres sont peut-être encore plus sécurisées, mais au prix d'une plus grande complexité pour pouvoir ajouter des contacts, et d'une interface pas aussi complète.\
