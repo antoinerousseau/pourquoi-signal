@@ -45,7 +45,7 @@ Il existe [un moyen simple](https://www.numerama.com/tech/680997-comment-migrer-
 
 - Réactions aux messages sous forme d'emojis, pratique pour ne pas polluer les groupes avec de multiples messages.
 - Stickers avec la possibilité de créer [ses propres packs](https://signalstickers.com/).
-- [Application pour ordinateur](https://signal.org/fr/download/)
+- [Application pour ordinateur](https://signal.org/fr/download/), pratique pour profiter d'un vrai clavier ou pour faire des appels en visio en grand.
 
 ## J'aimerais vérifier ces informations, où sont les sources ?
 
