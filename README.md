@@ -49,7 +49,7 @@ Il existe [un moyen simple](https://www.numerama.com/tech/680997-comment-migrer-
 
 ## J'aimerais vérifier ces informations, où sont les sources ?
 
-Tout d'abord, bravo pour en arriver là, il est important, à une époque où on nous innonde d'information fausses, de vérifier ses sources.\
+Tout d'abord, bravo pour en arriver là, il est important, à une époque où on nous innonde de fausses informations, de vérifier ses sources.\
 En voici quelques unes :
 
 - [Pourquoi de plus en plus de gens quittent WhatsApp pour l'appli Signal ?](https://www.franceinter.fr/societe/pourquoi-de-plus-en-plus-de-gens-quittent-whatsapp-pour-l-appli-signal)
