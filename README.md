@@ -33,10 +33,6 @@ D'autres applications telles que Olvid ou autres sont peut-être encore plus sé
 Pour les utilisateurs de WhatsApp, Signal fonctionne pareil : les contacts sont identifiés par leur numéro de téléphone.\
 C'est donc un compromis idéal.
 
-## Bonus Android : les SMS
-
-Signal [vous permet](https://support.signal.org/hc/fr/articles/360007321171-Puis-je-envoyer-des-textos-ou-des-messages-multim%C3%A9dias-avec-Signal-) (si vous le désirez) de prendre en charge les SMS à la place de votre application habituelle de SMS, et ce de manière transparente : n'utilisez plus que Signal, et le message transitera via Signal si le destinataire a Signal, ou via SMS sinon. Un petit indicateur (cadenas ouvert ou fermé) permet de savoir via quel réseau le message transite. Appuyez longtemps dessus pour choisir manuellement.
-
 ## Et mes groupes ?
 
 Il existe [un moyen simple](https://www.numerama.com/tech/680997-comment-migrer-son-groupe-whatsapp-dans-signal.html) de transférer les groupes de discussion de n'importe quelle application vers Signal, en partageant un lien Signal dans le groupe existant.
