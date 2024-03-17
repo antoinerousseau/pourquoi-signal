@@ -37,12 +37,6 @@ C'est donc un compromis idéal.
 
 Il existe [un moyen simple](https://www.numerama.com/tech/680997-comment-migrer-son-groupe-whatsapp-dans-signal.html) de transférer les groupes de discussion de n'importe quelle application vers Signal, en partageant un lien Signal dans le groupe existant.
 
-## Bonus ergonomie et fun
-
-- Réactions aux messages sous forme d'emojis, pratique pour ne pas polluer les groupes avec de multiples messages.
-- Stickers avec la possibilité de créer [ses propres packs](https://signalstickers.com/).
-- [Application pour ordinateur](https://signal.org/fr/download/), pratique pour profiter d'un vrai clavier ou pour faire des appels en visio en grand.
-
 ## J'aimerais vérifier ces informations, où sont les sources ?
 
 Tout d'abord, bravo pour en arriver là, il est important, à une époque où on nous innonde de fausses informations, de vérifier ses sources.\
