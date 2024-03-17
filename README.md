@@ -50,4 +50,4 @@ En voici quelques unes :
 
 ## J'ai d'autres questions, ou j'ai un souci
 
-[La page support de Signal](https://support.signal.org/hc/fr) est bien faite et contient des articles simples et clairs qui répondront à la plupart de vos questions ou problèmes, en particulier [si vous ne recevez pas toujours les notifications](https://support.signal.org/hc/fr/articles/360007318711-D%C3%A9pannage-des-notifications).
+[La page support de Signal](https://support.signal.org/hc/fr) est bien faite et contient des articles simples et clairs qui répondront à la plupart de vos questions ou problèmes.
